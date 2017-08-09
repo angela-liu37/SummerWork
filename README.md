@@ -15,7 +15,13 @@
 北京八达岭长城-刘珂
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ########2017.08.08
+=======
+branchtest
+
+TEST
+>>>>>>> 1c925aef04b6ce264ab91f6ae31fd06ce1c898bc
 =======
 branchtest
 
